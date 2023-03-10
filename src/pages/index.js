@@ -21,7 +21,6 @@ export default function Home() {
     if(!term) return;
 
     router.push(`/search?term=${term}`)
-    // window.location.href = `https://www.google.com/search?q=${e.target.value}`
   }
 
   return (
