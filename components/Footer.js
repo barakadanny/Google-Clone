@@ -1,6 +1,6 @@
 import { GlobeIcon } from "@heroicons/react/outline"
 
-import React from 'react'
+import React from "react"
 
 function Footer() {
   return (
