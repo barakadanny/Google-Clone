@@ -47,7 +47,11 @@
 ## About The Project
 
 This is a clone Google with basic features as Search and navigation
-![Screenshot 2023-03-10 at 15 04 38](https://user-images.githubusercontent.com/53088629/224316485-22fb1df0-4b73-403d-ada6-e6307e3471ff.png)
+<!-- ![Screenshot 2023-03-10 at 15 04 38](https://user-images.githubusercontent.com/53088629/224316485-22fb1df0-4b73-403d-ada6-e6307e3471ff.png)-->
+
+
+https://user-images.githubusercontent.com/53088629/224317364-610e77fa-762a-4789-9fd8-82e01c6ca56d.mov
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
